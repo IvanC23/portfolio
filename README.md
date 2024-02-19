@@ -1,37 +1,10 @@
-# Foobar
+# Interactive Portfolio
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+This project was created to realize an interactive portfolio to showcase relevant projects.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Track: Common Ground — Jay Someday [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://bit.ly/48K6nz7
+Free Download / Stream: https://alplus.io/common-ground
