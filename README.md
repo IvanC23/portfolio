@@ -9,6 +9,8 @@ Sound effects obtained from https://www.zapsplat.com
 
 Assets obtained from https://www.kenney.nl
 
+Font Crunch Chips obtained from https://www.dafont.com/it/crunch-chips.font
+
 
 
 
