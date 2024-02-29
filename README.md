@@ -11,7 +11,7 @@ Assets obtained from https://www.kenney.nl
 
 Font Crunch Chips obtained from https://www.dafont.com/it/crunch-chips.font
 
-Arrow asset taken from <a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by Freepik - Flaticon</a>
+Arrow asset taken from <a href="https://www.flaticon.com/free-icons/send" title="send icons">Send icons created by Pixel perfect - Flaticon</a>
 
 
 
